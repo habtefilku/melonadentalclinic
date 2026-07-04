@@ -61,8 +61,8 @@ export function Contact({ onNavigate }: ContactProps) {
                   <div>
                     <p className="text-xs font-bold tracking-widest uppercase mb-1 text-accent">OUR LOCATION</p>
                     <p className="text-sm leading-relaxed mb-4 text-foreground">
-                      Bole Medhanialem Area,<br />
-                      Next to Harmony Hotel,<br />
+                       Around Bole Mikeal Area,<br />
+                     
                       Addis Ababa, Ethiopia
                     </p>
                     <a

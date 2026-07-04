@@ -57,7 +57,7 @@ export function Footer({ onNavigate }: FooterProps) {
           <div>
             <h4 className="text-xs font-bold tracking-widest mb-4 uppercase text-accent">Contact</h4>
             <div className="space-y-2.5 text-sm mb-5 text-white/70">
-              <p>Bole Medhanialem Area,</p>
+              <p>Around Bole Mikeal Area,</p>
               <p>Addis Ababa, Ethiopia</p>
               <p>+251 911 00 00 00</p>
             </div>

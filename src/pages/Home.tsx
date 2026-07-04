@@ -341,7 +341,7 @@ export function Home({ onNavigate }: HomeProps) {
                     <MapPin className="size-5 mt-1 shrink-0 text-accent" />
                     <div>
                       <p className="font-semibold text-foreground">Address</p>
-                      <p className="text-sm text-muted-foreground mt-0.5">Bole Medhanialem Area, Next to Harmony Hotel, Addis Ababa, Ethiopia</p>
+                      <p className="text-sm text-muted-foreground mt-0.5">Around Bole Mikeal Area, Addis Ababa, Ethiopia</p>
                     </div>
                   </div>
                   <div className="flex items-start gap-4">
