@@ -296,8 +296,8 @@ export function Home({ onNavigate }: HomeProps) {
                 <MapPin className="size-6 text-primary" />
               </div>
               <h3 className="text-xl font-bold mb-2 font-serif-display text-foreground">Location</h3>
-              <p className="text-sm text-foreground font-semibold">Bole Medhanialem Area</p>
-              <p className="text-xs mt-2 text-muted-foreground">Next to Harmony Hotel</p>
+              <p className="text-sm text-foreground font-semibold">Around Bole Mikeal Area</p>
+              <p className="text-xs mt-2 text-muted-foreground"></p>
             </div>
             
             <div className="group text-center p-8 rounded-3xl border border-border/50 bg-white transition-all duration-500 hover:shadow-md hover:translate-y-[-4px]">
